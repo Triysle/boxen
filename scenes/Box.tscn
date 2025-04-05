@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://shq5ie16dllh"]
+
+[ext_resource type="Script" uid="uid://mc00cr4c8hif" path="res://scripts/Box.gd" id="1_qv0h3"]
+
+[node name="Box" type="Panel"]
+script = ExtResource("1_qv0h3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="ProgressBar" type="ProgressBar" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Overflow Icon - Progress carrying over -->
+  <rect x="8" y="14" width="32" height="8" rx="2" fill="#666666" />
+  <rect x="10" y="16" width="28" height="4" rx="1" fill="#999999" />
+  <rect x="10" y="16" width="24" height="4" rx="1" fill="#cccccc" />
+  
+  <!-- Arrow pointing to next bar -->
+  <path d="M24 24 L30 30 L24 36" fill="none" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="14" y1="30" x2="30" y2="30" stroke="#333333" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Second progress bar with starting progress -->
+  <rect x="8" y="32" width="32" height="8" rx="2" fill="#666666" />
+  <rect x="10" y="34" width="28" height="4" rx="1" fill="#999999" />
+  <rect x="10" y="34" width="8" height="4" rx="1" fill="#cccccc" />
+</svg>

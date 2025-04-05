@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Auto-Activate Icon - Gear -->
+  <circle cx="24" cy="24" r="12" fill="#999999" />
+  <circle cx="24" cy="24" r="6" fill="#666666" />
+  <circle cx="24" cy="24" r="3" fill="#cccccc" />
+  
+  <!-- Gear teeth -->
+  <rect x="22" y="4" width="4" height="8" fill="#666666" />
+  <rect x="22" y="36" width="4" height="8" fill="#666666" />
+  <rect x="4" y="22" width="8" height="4" fill="#666666" />
+  <rect x="36" y="22" width="8" height="4" fill="#666666" />
+  
+  <!-- Diagonal teeth -->
+  <rect x="9" y="9" width="6" height="6" transform="rotate(45 12 12)" fill="#666666" />
+  <rect x="33" y="9" width="6" height="6" transform="rotate(45 36 12)" fill="#666666" />
+  <rect x="9" y="33" width="6" height="6" transform="rotate(45 12 36)" fill="#666666" />
+  <rect x="33" y="33" width="6" height="6" transform="rotate(45 36 36)" fill="#666666" />
+</svg>

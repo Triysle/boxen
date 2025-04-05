@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Multi-Fill Icon - Multiple Completion Symbols -->
+  <rect x="8" y="12" width="16" height="8" rx="2" fill="#666666" />
+  <rect x="9" y="13" width="8" height="6" rx="1" fill="#cccccc" />
+  
+  <rect x="8" y="24" width="16" height="8" rx="2" fill="#666666" />
+  <rect x="9" y="25" width="14" height="6" rx="1" fill="#cccccc" />
+  
+  <rect x="8" y="36" width="16" height="8" rx="2" fill="#666666" />
+  <rect x="9" y="37" width="10" height="6" rx="1" fill="#cccccc" />
+  
+  <!-- Multiply symbol -->
+  <line x1="32" y1="18" x2="38" y2="24" stroke="#333333" stroke-width="3" stroke-linecap="round" />
+  <line x1="32" y1="30" x2="38" y2="24" stroke="#333333" stroke-width="3" stroke-linecap="round" />
+  <circle cx="30" cy="24" r="2" fill="#333333" />
+  <circle cx="40" cy="24" r="2" fill="#333333" />
+</svg>

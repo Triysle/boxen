@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Hold Bonus Icon - Hand/Mouse Cursor -->
+  <path d="M16 8 L24 16 L24 36 C24 40 20 44 16 44 C12 44 8 40 8 36 L8 20 C8 16 12 12 16 12 Z" fill="#999999" />
+  <path d="M16 8 L24 16 L24 36 C24 40 20 44 16 44 C12 44 8 40 8 36 L8 20 C8 16 12 12 16 12 Z" fill="none" stroke="#666666" stroke-width="2" />
+  
+  <!-- Finger separation lines -->
+  <line x1="16" y1="44" x2="16" y2="20" stroke="#666666" stroke-width="1" />
+  <line x1="20" y1="40" x2="20" y2="20" stroke="#666666" stroke-width="1" />
+  
+  <!-- Hold/Press effect -->
+  <circle cx="16" cy="28" r="10" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="2,2" />
+  <circle cx="16" cy="28" r="6" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="2,2" />
+</svg>
